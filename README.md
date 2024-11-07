@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br>🌱 Hi i'm Mohan Gowda
-I’m currently learning<br>
+<br>🌱I’m currently learning<br>
 
 
 ## 🌐 Socials:
