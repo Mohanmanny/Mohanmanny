@@ -1,6 +1,8 @@
-## Hai 👋I'm Mohan Gowda G R
+# Hai 👋I'm Mohan Gowda G R
+
+
 # 💫 About Me:
-<br>🌱I’m currently learning<br>
+🌱I’m currently learning
 
 
 ## 🌐 Socials:
